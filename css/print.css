@@ -1,0 +1,22 @@
+.footer-2,
+#header,
+.redbanner,
+.detail-banner,
+.feature-car,
+.garanties,
+.car-deatils-banner,
+.car-details-sidebar,
+#comparator-sticky {
+    display: none !important;
+}
+
+.accordion-content {
+    display: block !important;
+}
+
+.for-print {
+    display: block;
+}
+.slider-slick {
+    display: none;
+}
